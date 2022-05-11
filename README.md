@@ -1,1 +1,5 @@
-Hola mundo, desde un live de codigofacilito
+git config --list
+
+git add --all
+git commit -m ""
+git push origin <rama>
