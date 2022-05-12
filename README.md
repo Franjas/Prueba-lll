@@ -14,7 +14,7 @@ git commit --amend -m "Nuevo mensaje"
 git diff
 
 git checkout -> para movernos entre ramas y/o commits
-git checkout -b -> creammos nueva rama y nos movemos a ella
+git checkout -b -> creamos nueva rama y nos movemos a ella
 git switch -c <nueva rama>
 git branch
 
